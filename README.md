@@ -3,6 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5555,25:FFAA00,55:55AA55,100:5555FF&height=230&section=header&text=Nazmii&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%2B%20Systems%20Dev%20%C2%B7%20Games%20%2B%20OTA%20Infra&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
+<!-- plain-text fallback — always renders even if banner image is slow -->
+<div align="center">
+  <h1>Hey, I'm Nazmii 🃏</h1>
+  <h3>Mobile + Systems Dev · Multiplayer Games · Self-Hosted OTA Infra</h3>
+</div>
+
 <!-- ═══════════════════════ TYPING SVG ═══════════════════════ -->
 <div align="center">
   <a href="https://github.com/HYPER12755">
@@ -149,13 +155,6 @@ motto:     "ship updates over the air, deal cards over the wire"
   <img src="https://streak-stats.demolab.com?user=HYPER12755&theme=tokyonight&hide_border=true&background=1a1b27&ring=FFAA00&fire=FF5555&currStreakLabel=55AA55" alt="streak"/>
 </div>
 
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HYPER12755&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
-</div>
-
 <!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
 ## 📈 Contribution Graph
 
@@ -196,12 +195,50 @@ motto:     "ship updates over the air, deal cards over the wire"
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
 </div>
 
-<!-- ═══════════════════════ JOKE ═══════════════════════ -->
+<!-- ═══════════════════════ CODING PROFILE CARD ═══════════════════════ -->
+## 🧩 Coding Identity
+
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Nazmii's%20Toolbelt&align=center&titleAlign=center&fontSize=16&lineHeight=10&lineCount=4&theme=tokyonight&border=FFAA00&width=650&line1=dart,Dart,0175C2;flutter,Flutter,02569B;kotlin,Kotlin,7F52FF;typescript,TypeScript,3178C6;&line2=go,Go,00ADD8;rust,Rust,DEA584;react,React,61DAFB;nextdotjs,Next.js,ffffff;&line3=nodedotjs,Node,339933;supabase,Supabase,3ECF8E;postgresql,Postgres,4169E1;docker,Docker,2496ED;&line4=graphql,GraphQL,E10098;redis,Redis,DC382D;kubernetes,K8s,326CE5;git,Git,F05032;" alt="tech-stack-card"/>
+</div>
+
+<!-- ═══════════════════════ RANDOM JOKE ═══════════════════════ -->
 ## 😂 Random Dev Joke
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&bgColor=1a1b27&textColor=ffffff&qColor=FFAA00&aColor=55AA55" alt="joke"/>
 </div>
+
+<!-- ═══════════════════════ GITHUB ACHIEVEMENTS ═══════════════════════ -->
+## 🎖️ GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HYPER12755&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="achievements"/>
+</div>
+
+<!-- ═══════════════════════ PRINCIPLES ═══════════════════════ -->
+## 🧭 How I Build
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Ship_Fast-FFAA00?style=for-the-badge&logo=rocket&logoColor=black"/><br/>
+      <sub>Small patches, shipped often — over the air, no store wait.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Self_Hosted-55AA55?style=for-the-badge&logo=server&logoColor=white"/><br/>
+      <sub>Own the pipeline. No third-party cloud lock-in.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Realtime-5555FF?style=for-the-badge&logo=pulse&logoColor=white"/><br/>
+      <sub>Multiplayer netcode, live feeds, low-latency by default.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://custom-icon-badges.demolab.com/badge/-Open_Source-FF5555?style=for-the-badge&logo=git&logoColor=white"/><br/>
+      <sub>Build in the open, share the kit, learn out loud.</sub>
+    </td>
+  </tr>
+</table>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 ## 🐍 Contribution Snake
@@ -224,8 +261,32 @@ motto:     "ship updates over the air, deal cards over the wire"
 
 <br/>
 
+<!-- ═══════════════════════ REPO STAR COUNTERS ═══════════════════════ -->
+## ⭐ Live Repo Stars
+
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/HYPER12755/com.infected.uno&query=%24.stargazers_count&label=uno%20stars&style=for-the-badge&color=FFAA00&logo=github" alt="uno-stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/HYPER12755/com.infected.thread-React-Native&query=%24.stargazers_count&label=thread%20stars&style=for-the-badge&color=55AA55&logo=github" alt="thread-stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/HYPER12755/com.infected.insta-Flutter&query=%24.stargazers_count&label=insta%20stars&style=for-the-badge&color=5555FF&logo=github" alt="insta-stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/HYPER12755/flutter-ota-kit&query=%24.stargazers_count&label=ota%20stars&style=for-the-badge&color=FF5555&logo=github" alt="ota-stars"/>
+</div>
+
+<!-- ═══════════════════════ SUPPORT ═══════════════════════ -->
+## 🎁 Support
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/HYPER12755">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="bmc"/>
+  </a>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Star_my_repos-FFAA00?style=for-the-badge&logo=star&logoColor=black" alt="star"/>
+</div>
+
+<br/>
+
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=55AA55&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Star+a+repo+if+it+helped+%E2%AD%90;ship+updates+over+the+air+%F0%9F%93%A6" alt="footer-typing"/>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5555FF,45:55AA55,75:FFAA00,100:FF5555&height=120&section=footer" width="100%"/>
 
   <sub>🃏 ship updates over the air, deal cards over the wire 🃏</sub>
