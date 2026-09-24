@@ -178,8 +178,16 @@ motto:     "ship updates over the air, deal cards over the wire"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HYPER12755&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFAA00&icon_color=55AA55&count_private=true" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HYPER12755&theme=tokyonight" width="100%" alt="profile-details"/>
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HYPER12755&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFAA00&icon_color=55AA55&count_private=true&fallbackTheme=tokyonight" alt="stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYPER12755&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFAA00&langs_count=8" alt="langs"/>
+</div>
+
+<div align="center">
+  <sub>📌 if the two cards above are blank, their host (vercel) is cold — the profile-details bar always renders</sub>
 </div>
 
 <div align="center">
@@ -188,6 +196,11 @@ motto:     "ship updates over the air, deal cards over the wire"
 
 <!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
 ## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HYPER12755&theme=tokyonight&utcOffset=0" width="49%" alt="productive-time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HYPER12755&theme=tokyonight" width="49%" alt="stats-summary"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HYPER12755&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=FFAA00&line=55AA55&point=FF5555&area=true" width="100%" alt="activity"/>
