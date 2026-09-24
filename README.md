@@ -275,6 +275,70 @@ motto:     "ship updates over the air, deal cards over the wire"
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+<!-- ═══════════════════════ DEV ENVIRONMENT ═══════════════════════ -->
+## 💻 My Setup
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="os"/>
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="editor"/>
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="shell"/>
+  <img src="https://img.shields.io/badge/Terminal-Kitty-000000?style=for-the-badge&logo=kitty&logoColor=white" alt="term"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Mobile-Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="as"/>
+  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
+  <img src="https://img.shields.io/badge/API-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-since_2024-1a1b27?style=for-the-badge&logo=calendar&logoColor=FFAA00" alt="since"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════════════════════ CODE BREAKDOWN ═══════════════════════ -->
+## 🧬 Language Breakdown
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HYPER12755&theme=tokyonight" width="49%" alt="repos-per-lang"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HYPER12755&theme=tokyonight" width="49%" alt="commit-lang"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════════════════════ FOCUS SPLIT ═══════════════════════ -->
+## 🎯 Where My Time Goes
+
+<div align="center">
+
+```text
+Mobile apps        ████████████████░░░░   80%
+Multiplayer games  █████████████░░░░░░░   65%
+Self-hosted infra  ██████████░░░░░░░░░░   50%
+Systems / Rust     ██████░░░░░░░░░░░░░░   30%
+```
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ═══════════════════════ QUICK FACTS ═══════════════════════ -->
+## ⚡ Quick Facts
+
+<table align="center">
+  <tr>
+    <td align="center">🃏</td><td>Named my repos <code>com.infected.*</code> — package-style, like they're shipping to a store I'm bypassing anyway.</td>
+  </tr>
+  <tr>
+    <td align="center">📦</td><td>Believe a store review shouldn't gate a one-line Dart fix — hence the OTA kit.</td>
+  </tr>
+  <tr>
+    <td align="center">🎮</td><td>UNO is my testbed for realtime netcode — cards are just the excuse.</td>
+  </tr>
+  <tr>
+    <td align="center">🦀</td><td>Learning Rust to push the systems/infra side deeper.</td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 ## 🐍 Contribution Snake
 
