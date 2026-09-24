@@ -28,14 +28,25 @@
 <!-- ═══════════════════════ WHOAMI ═══════════════════════ -->
 ## 🃏 `whoami`
 
+<table>
+  <tr>
+    <td valign="top" width="62%">
+
 ```yaml
 name:      Nazmii
 handle:    HYPER12755
 focus:     Mobile apps · Multiplayer games · Self-hosted infra
-languages: [ Dart, Kotlin, TypeScript, Rust, JavaScript ]
+languages: [ Dart, Kotlin, TypeScript, Rust, JavaScript, Go ]
 building:  UNO-style multiplayer · Flutter OTA code-push · social apps
 motto:     "ship updates over the air, deal cards over the wire"
 ```
+
+</td>
+    <td valign="top" width="38%">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
 <!-- ═══════════════════════ FEATURED ═══════════════════════ -->
 ## 🚀 Featured Work
@@ -271,6 +282,37 @@ motto:     "ship updates over the air, deal cards over the wire"
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/HYPER12755/flutter-ota-kit&query=%24.stargazers_count&label=ota%20stars&style=for-the-badge&color=FF5555&logo=github" alt="ota-stars"/>
 </div>
 
+<!-- ═══════════════════════ REPO VITALS ═══════════════════════ -->
+## 📟 Repo Vitals
+
+<div align="center">
+
+**🃏 com.infected.uno**  
+<img src="https://img.shields.io/github/last-commit/HYPER12755/com.infected.uno?style=flat-square&color=FFAA00&label=last%20commit" alt="uno-commit"/>
+<img src="https://img.shields.io/github/languages/top/HYPER12755/com.infected.uno?style=flat-square&color=7F52FF" alt="uno-lang"/>
+<img src="https://img.shields.io/github/languages/count/HYPER12755/com.infected.uno?style=flat-square&color=55AA55&label=langs" alt="uno-langs"/>
+<img src="https://img.shields.io/github/repo-size/HYPER12755/com.infected.uno?style=flat-square&color=5555FF" alt="uno-size"/>
+
+**🧵 com.infected.thread-React-Native**  
+<img src="https://img.shields.io/github/last-commit/HYPER12755/com.infected.thread-React-Native?style=flat-square&color=FFAA00&label=last%20commit" alt="thread-commit"/>
+<img src="https://img.shields.io/github/languages/top/HYPER12755/com.infected.thread-React-Native?style=flat-square&color=3178C6" alt="thread-lang"/>
+<img src="https://img.shields.io/github/languages/count/HYPER12755/com.infected.thread-React-Native?style=flat-square&color=55AA55&label=langs" alt="thread-langs"/>
+<img src="https://img.shields.io/github/repo-size/HYPER12755/com.infected.thread-React-Native?style=flat-square&color=5555FF" alt="thread-size"/>
+
+**📸 com.infected.insta-Flutter**  
+<img src="https://img.shields.io/github/last-commit/HYPER12755/com.infected.insta-Flutter?style=flat-square&color=FFAA00&label=last%20commit" alt="insta-commit"/>
+<img src="https://img.shields.io/github/languages/top/HYPER12755/com.infected.insta-Flutter?style=flat-square&color=0175C2" alt="insta-lang"/>
+<img src="https://img.shields.io/github/languages/count/HYPER12755/com.infected.insta-Flutter?style=flat-square&color=55AA55&label=langs" alt="insta-langs"/>
+<img src="https://img.shields.io/github/repo-size/HYPER12755/com.infected.insta-Flutter?style=flat-square&color=5555FF" alt="insta-size"/>
+
+**📦 flutter-ota-kit**  
+<img src="https://img.shields.io/github/last-commit/HYPER12755/flutter-ota-kit?style=flat-square&color=FFAA00&label=last%20commit" alt="ota-commit"/>
+<img src="https://img.shields.io/github/languages/top/HYPER12755/flutter-ota-kit?style=flat-square&color=0175C2" alt="ota-lang"/>
+<img src="https://img.shields.io/github/languages/count/HYPER12755/flutter-ota-kit?style=flat-square&color=55AA55&label=langs" alt="ota-langs"/>
+<img src="https://img.shields.io/github/repo-size/HYPER12755/flutter-ota-kit?style=flat-square&color=5555FF" alt="ota-size"/>
+
+</div>
+
 <!-- ═══════════════════════ SUPPORT ═══════════════════════ -->
 ## 🎁 Support
 
@@ -290,4 +332,9 @@ motto:     "ship updates over the air, deal cards over the wire"
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5555FF,45:55AA55,75:FFAA00,100:FF5555&height=120&section=footer" width="100%"/>
 
   <sub>🃏 ship updates over the air, deal cards over the wire 🃏</sub>
+
+  <br/><br/>
+
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love"/>
+  <img src="https://img.shields.io/badge/Made_with-Markdown-1f425f?style=for-the-badge&logo=markdown&logoColor=white" alt="made with markdown"/>
 </div>
