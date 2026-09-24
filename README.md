@@ -92,30 +92,48 @@ motto:     "ship updates over the air, deal cards over the wire"
 </table>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-## 🛠️ Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Core
-<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,ts,rust,js,react,nodejs&theme=dark" alt="skills"/>
+### 🧠 Languages
+<img src="https://skillicons.dev/icons?i=dart,kotlin,ts,js,rust,go,python,cpp,java,swift&theme=dark" alt="langs"/>
 
-### Backend · Tooling · Platforms
-<img src="https://skillicons.dev/icons?i=firebase,postgres,supabase,docker,git,github,gradle,androidstudio&theme=dark" alt="skills2"/>
+### 📱 Mobile & Frontend
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,vue,svelte,angular,html,css,androidstudio&theme=dark" alt="frontend"/>
+
+### ⚙️ Backend & Runtime
+<img src="https://skillicons.dev/icons?i=nodejs,deno,bun,express,nestjs,graphql,go,rust,kotlin,python&theme=dark" alt="backend"/>
+
+### 🗄️ Data & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,aws,gcp,cloudflare,docker&theme=dark" alt="cloud"/>
+
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,gradle,linux,bash,vscode,figma,postman,vim,kubernetes&theme=dark" alt="tools"/>
 
 <br/><br/>
 
-### Languages
+<!-- badge fallbacks -->
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Tools
+<br/>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Nakama](https://img.shields.io/badge/Nakama-1E1E2E?style=for-the-badge&logo=serverfault&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<br/>
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </div>
 
@@ -128,7 +146,7 @@ motto:     "ship updates over the air, deal cards over the wire"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HYPER12755&theme=tokyonight&hide_border=true&background=1a1b27&ring=FFAA00&fire=FF5555&currStreakLabel=55AA55" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=HYPER12755&theme=tokyonight&hide_border=true&background=1a1b27&ring=FFAA00&fire=FF5555&currStreakLabel=55AA55" alt="streak"/>
 </div>
 
 <!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
@@ -159,12 +177,8 @@ motto:     "ship updates over the air, deal cards over the wire"
 <!-- ═══════════════════════ DEV METRICS ═══════════════════════ -->
 ## 🧮 Deep Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HYPER12755&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FFAA00&text_color=ffffff&layout=compact" alt="wakatime"/>
-</div>
-
-<details>
-  <summary><b>📂 Full contribution metrics (click to expand)</b></summary>
+<details open>
+  <summary><b>📂 Full contribution metrics</b></summary>
   <br/>
   <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HYPER12755&theme=tokyonight" width="100%" alt="summary"/>
