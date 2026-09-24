@@ -48,6 +48,8 @@ motto:     "ship updates over the air, deal cards over the wire"
   </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 <!-- ═══════════════════════ FEATURED ═══════════════════════ -->
 ## 🚀 Featured Work
 
@@ -55,21 +57,23 @@ motto:     "ship updates over the air, deal cards over the wire"
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧵 thread</h3>
-      <div align="center">
-        <a href="https://github.com/HYPER12755/com.infected.thread-React-Native">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HYPER12755&repo=com.infected.thread-React-Native&theme=tokyonight&border_color=FFAA00" alt="thread"/>
-        </a>
-      </div>
-      <p align="center">Threads-style social app. Nested conversations, real-time feed, built in React Native + TypeScript.</p>
+      <p align="center">
+        <img src="https://img.shields.io/github/languages/top/HYPER12755/com.infected.thread-React-Native?style=flat-square&color=3178C6&logo=react" alt=""/>
+        <img src="https://img.shields.io/github/stars/HYPER12755/com.infected.thread-React-Native?style=flat-square&color=FFAA00" alt=""/>
+        <img src="https://img.shields.io/github/last-commit/HYPER12755/com.infected.thread-React-Native?style=flat-square&color=55AA55&label=updated" alt=""/>
+      </p>
+      <p align="center">Threads-style social app. Nested conversations, real-time feed, built in <b>React Native + TypeScript</b>.</p>
+      <p align="center"><a href="https://github.com/HYPER12755/com.infected.thread-React-Native"><img src="https://custom-icon-badges.demolab.com/badge/-View_Repo-1a1b27?style=for-the-badge&logo=repo&logoColor=FFAA00" alt=""/></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📸 insta</h3>
-      <div align="center">
-        <a href="https://github.com/HYPER12755/com.infected.insta-Flutter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HYPER12755&repo=com.infected.insta-Flutter&theme=tokyonight&border_color=FFAA00" alt="insta"/>
-        </a>
-      </div>
-      <p align="center">Instagram-style photo-sharing app. Feeds, stories, profiles — crafted in Flutter + Dart.</p>
+      <p align="center">
+        <img src="https://img.shields.io/github/languages/top/HYPER12755/com.infected.insta-Flutter?style=flat-square&color=0175C2&logo=flutter" alt=""/>
+        <img src="https://img.shields.io/github/stars/HYPER12755/com.infected.insta-Flutter?style=flat-square&color=FFAA00" alt=""/>
+        <img src="https://img.shields.io/github/last-commit/HYPER12755/com.infected.insta-Flutter?style=flat-square&color=55AA55&label=updated" alt=""/>
+      </p>
+      <p align="center">Instagram-style photo-sharing app. Feeds, stories, profiles — crafted in <b>Flutter + Dart</b>.</p>
+      <p align="center"><a href="https://github.com/HYPER12755/com.infected.insta-Flutter"><img src="https://custom-icon-badges.demolab.com/badge/-View_Repo-1a1b27?style=for-the-badge&logo=repo&logoColor=FFAA00" alt=""/></a></p>
     </td>
   </tr>
 </table>
@@ -80,33 +84,47 @@ motto:     "ship updates over the air, deal cards over the wire"
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/HYPER12755/com.infected.uno">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HYPER12755&repo=com.infected.uno&theme=tokyonight&border_color=55AA55" alt="uno"/>
-      </a>
-      <p align="center">Multiplayer UNO — Kotlin + Nakama realtime backend.</p>
+      <h3 align="center">🃏 uno</h3>
+      <p align="center">
+        <img src="https://img.shields.io/github/languages/top/HYPER12755/com.infected.uno?style=flat-square&color=7F52FF&logo=kotlin" alt=""/>
+        <img src="https://img.shields.io/github/last-commit/HYPER12755/com.infected.uno?style=flat-square&color=55AA55&label=updated" alt=""/>
+      </p>
+      <p align="center">Multiplayer UNO — <b>Kotlin + Nakama</b> realtime backend.</p>
+      <p align="center"><a href="https://github.com/HYPER12755/com.infected.uno"><img src="https://custom-icon-badges.demolab.com/badge/-View_Repo-1a1b27?style=for-the-badge&logo=repo&logoColor=55AA55" alt=""/></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/HYPER12755/flutter-ota-kit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HYPER12755&repo=flutter-ota-kit&theme=tokyonight&border_color=55AA55" alt="ota"/>
-      </a>
-      <p align="center">Self-hosted Dart code-push. Patch over the air, no store release.</p>
+      <h3 align="center">📦 flutter-ota-kit</h3>
+      <p align="center">
+        <img src="https://img.shields.io/github/languages/top/HYPER12755/flutter-ota-kit?style=flat-square&color=0175C2&logo=dart" alt=""/>
+        <img src="https://img.shields.io/github/last-commit/HYPER12755/flutter-ota-kit?style=flat-square&color=55AA55&label=updated" alt=""/>
+      </p>
+      <p align="center">Self-hosted <b>Dart code-push</b>. Patch over the air, no store release.</p>
+      <p align="center"><a href="https://github.com/HYPER12755/flutter-ota-kit"><img src="https://custom-icon-badges.demolab.com/badge/-View_Repo-1a1b27?style=for-the-badge&logo=repo&logoColor=55AA55" alt=""/></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/HYPER12755/uno-vertical">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HYPER12755&repo=uno-vertical&theme=tokyonight&border_color=55AA55" alt="uno-vertical"/>
-      </a>
-      <p align="center">Every UNO variant in one place — JS, multiplayer-ready.</p>
+      <h3 align="center">🎴 uno-vertical</h3>
+      <p align="center">
+        <img src="https://img.shields.io/github/languages/top/HYPER12755/uno-vertical?style=flat-square&color=F7DF1E&logo=javascript" alt=""/>
+        <img src="https://img.shields.io/github/last-commit/HYPER12755/uno-vertical?style=flat-square&color=55AA55&label=updated" alt=""/>
+      </p>
+      <p align="center">Every UNO variant in one place — <b>JS</b>, multiplayer-ready.</p>
+      <p align="center"><a href="https://github.com/HYPER12755/uno-vertical"><img src="https://custom-icon-badges.demolab.com/badge/-View_Repo-1a1b27?style=for-the-badge&logo=repo&logoColor=55AA55" alt=""/></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/HYPER12755/nested-thread-view">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HYPER12755&repo=nested-thread-view&theme=tokyonight&border_color=55AA55" alt="nested"/>
-      </a>
-      <p align="center">Nested threaded comment view — TypeScript component.</p>
+      <h3 align="center">🧩 nested-thread-view</h3>
+      <p align="center">
+        <img src="https://img.shields.io/github/languages/top/HYPER12755/nested-thread-view?style=flat-square&color=3178C6&logo=typescript" alt=""/>
+        <img src="https://img.shields.io/github/last-commit/HYPER12755/nested-thread-view?style=flat-square&color=55AA55&label=updated" alt=""/>
+      </p>
+      <p align="center">Nested threaded comment view — <b>TypeScript</b> component.</p>
+      <p align="center"><a href="https://github.com/HYPER12755/nested-thread-view"><img src="https://custom-icon-badges.demolab.com/badge/-View_Repo-1a1b27?style=for-the-badge&logo=repo&logoColor=55AA55" alt=""/></a></p>
     </td>
   </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ## 🛠️ Tech Arsenal
@@ -154,6 +172,8 @@ motto:     "ship updates over the air, deal cards over the wire"
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 ## 📊 GitHub Stats
 
@@ -172,6 +192,8 @@ motto:     "ship updates over the air, deal cards over the wire"
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HYPER12755&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=FFAA00&line=55AA55&point=FF5555&area=true" width="100%" alt="activity"/>
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ═══════════════════════ NOW ═══════════════════════ -->
 ## ⚡ What I'm On Right Now
@@ -250,6 +272,8 @@ motto:     "ship updates over the air, deal cards over the wire"
     </td>
   </tr>
 </table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 ## 🐍 Contribution Snake
